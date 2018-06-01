@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+/*设置全局的css,:global()包含的类将不会被css-loder处理命名,而是直接抛出原类名*/
+:global(.global_pdlr){
+  padding: 0 10px;
+}
+:global(.global_pdr){
+  padding-right: 10px;
+}
+:global(.table){
+  border: 1px solid #f7f7f7;
+  margin-top: 30px;
+}
+:global(.bgColor_white){
+  background: #ffffff;
+}

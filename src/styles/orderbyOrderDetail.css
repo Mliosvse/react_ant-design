@@ -1,0 +1,12 @@
+.obod_title{
+    line-height: 48px;
+    font-weight:bold;
+    border-bottom: 1px solid black;
+}
+.obod_text{
+    color: #111;
+    padding-left: 5px;
+}
+.obod_item{
+    line-height:48px;
+}

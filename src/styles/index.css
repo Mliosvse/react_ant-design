@@ -1,0 +1,20 @@
+.numData{
+  width: 100%;
+  height: 400px;
+  background: #f9f9f9;
+  padding-left:40px;
+  padding-top:20px;
+}
+.suNumber>span{
+  font-size: 26px;
+  font-weight: 600;
+  color: #0280ff;
+}
+.erNumber>span{
+  font-size: 26px;
+  font-weight: 600;
+  color: #e83444;
+}
+.mt{
+  margin-top:20px;
+}
